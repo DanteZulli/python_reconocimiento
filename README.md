@@ -1,6 +1,6 @@
 # python_reconocimiento
 ## Descripción General y Consideraciones
-Este es mi proyecto de reconocimiento con Python.
+Este es mi proyecto de reconocimiento con Python<br>
 Lo hice para la "Muestra Anual de Saberes y Capacidades Profesionales 2022" de la Escuela de Educación Secundaria Técnica N°2 (E.E.S.T N°2 Temperley).<br>
 Cuenta con varios proyectos que ponen en práctica los conceptos de Inteligencia Artificial, Redes Neuronales, Aprendizaje de Máquina y Visión Computacional entre otras cosas.<br>
 La interfaz fue realizada con QT, más especificamente PyQt5. El código fuente de la interfaz se encuentra en el archivo "GUI_Reconocimiento.ui" ya que lo hice con QT DESIGNER. Las imágenes que usé se encuentran en la carpeta GUI_Imagenes.<br>
